@@ -1,18 +1,18 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Assessing Covid Urgency
 logo: 
 author: themefisher
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+email: alexander.elg@sciencespo.fr
+phone: +33 7 52 03 37 78
+address: 1 pl St Thomas, 75007 Paris
+ 
 
 menu:
-- {name: About, link: '/about'}
-- {name: Blog, link: '/blog'}
+- {name: About the project, link: '/about'}
+- {name: Code, link: '/blog'}
 - {name: Portfolio, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
 
