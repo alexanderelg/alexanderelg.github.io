@@ -56,8 +56,8 @@
 
   /* solid */
 
-  --jet: hsl(0, 0%, 22%);
-  --onyx: hsl(240, 1%, 17%);
+  --jet:hsl(151, 100%, 37%);
+  --onyx: hsl(138, 38%, 42%);
   --green-light: hsl(151, 100%, 37%);
   --green-middle: hsl(138, 38%, 42%);
   --green-dark: hsl(147, 21%, 42%);
@@ -66,8 +66,8 @@
   --green-middle: hsl(0, 0%, 98%);
   --orange-yellow-crayola: hsl(45, 100%, 72%);
   --vegas-gold: hsl(45, 54%, 58%);
-  --light-gray: hsl(0, 0%, 84%);
-  --light-gray-70: hsla(0, 0%, 84%, 0.7);
+  --light-gray: hsl(138, 38%, 42%);
+  --light-gray-70: hsl(147, 21%, 42%);
   --bittersweet-shimmer: hsl(0, 43%, 51%);
 
   /**
