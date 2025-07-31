@@ -3917,16 +3917,16 @@ input, select, textarea {
 
 
 .site-footer {
-  width: 100%;
-  min-height: 50vh;
-  background-color: hsl(151, 100%, 37%); /* or any color */
-  text-align: center; /* or left/right as needed */
-display: flex;
-  justify-content: space-between;
-  align-items: center;
-
+  	width: 100%;
+  	background-color: hsl(151, 100%, 37%); /* or any color */
+  	text-align: center; /* or left/right as needed */
+  	display: flex;
+	min-height: 50vh;
+  	justify-content: space-between;
+  	align-items: center;
+	position: relative; /* Not fixed */
+    bottom: 0;
 }
-
 .site-footer img {
   width: 30%; /* Adjust as needed */
   height: auto;
