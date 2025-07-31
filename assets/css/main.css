@@ -3921,7 +3921,7 @@ input, select, textarea {
   	background-color: hsl(151, 100%, 37%); /* or any color */
   	text-align: center; /* or left/right as needed */
   	display: flex;
-	min-height: 50vh;
+	min-height: 60vh;
   	justify-content: space-between;
   	align-items: center;
 	position: relative; /* Not fixed */
